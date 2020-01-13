@@ -19,4 +19,5 @@
     => Git einfaldar ferlið við að vinna með öðrum og        gerir það auðvelt að vinna að verkefnum með öðrum.    Samstarfsmenn geta unnið að skrám og auðveldlega      bætt breytingum sínum í aðal skrá verkefnisins        hvor í sínu lagi. Þetta gerir mörgum kleift að        vinna á sömu skrám á sama tíma.
 6. Hversu oft telur þú að eigi að gera færslur (commit) í verkefni?
     => Í hvert skipti sem þú hefur búið til kóða/efni sem virkar og eyðileggur ekkert inn í aðalskránni(fyrir sjálfum þér og öðrum)
-    
+7. Hvað er átt við með “Working Directory”?” og “Staging Area” í GIT?
+    => Vinnuskrá(e.Working Directory) og Sviðsetnig atriða(e. Staging Area). Vinnuskrá er aðal skrá verkefnsins sem hefur innheldur opinberlega og allan kóða/efni verkefnisi. Sviðsetning atriða er staður þar sem vinnuaðili verkefnisin getur prufað kóðan/efni sitt áður en hann lætur það hafa áhrif aðal skránna. 
