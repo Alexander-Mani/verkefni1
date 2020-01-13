@@ -9,3 +9,7 @@
     * git clone => Git skipun sem leyfir þér að                          afrita/klóna(e. Repository) aðra skrá                 á staðsetningu
     * git status => Gefur upplýsingar um vinnu skrár og                   staðsetningu. Það gerir þér kelift að                 sjá hvaða breytingar hafa verða                       framkvæmdar og hverjar hafa ekki og                   havað skrár er raktar af Git
     * git diff => Sýnir muninn á vinnuskránni og                        atriðaskránni
+3. Hvað gera eftirfarandi Git skipanir saman? Hvaða gagn er að þeirri aðgerð?
+    * git log => Sýnir lista af áður framkvæmdum                       skráningum í verkefni
+    * git checkout => Leyfir þér að færa þig á milli                        greinar búnar til með git branch
+    * git branch => Er einföld skipun sem leyfir þér að                   búa til  undirstrikanir þar sem þú                    hefur gert skráningar. undirstrikunin                 færist áfram að nýjustu skráningunni
