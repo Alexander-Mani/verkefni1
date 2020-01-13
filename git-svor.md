@@ -15,5 +15,4 @@
     * git branch => Er einföld skipun sem leyfir þér að                   búa til  undirstrikanir þar sem þú                    hefur gert skráningar. undirstrikunin                 færist áfram að nýjustu skráningunni
 4. Hvað er útgáfustýring (Version Control)?
     => Er verkefæri sem leyfir þér að hafa yfirsín yfir      breytingum á kóða í kerfinu þínu og leyfir þér        einning að færa þig afturbak áður en breytingar       voru framkvæmdar
- 5. Hverjir eru helstu kostir við að nota GIT?
-    => Git einfaldar ferlið við að vinna með öðrum og        gerir það auðvelt að vinna að verkefnum með öðrum.    Samstarfsmenn geta unnið að skrám og auðveldlega      bætt breytingum sínum í aðal skrá verkefnisins        hvor í sínu lagi. Þetta gerir mörgum kleift að        vinna á sömu skrám á sama tíma.
+
